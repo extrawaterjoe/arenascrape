@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "type": "module",
   "dependencies": {
-    "puppeteer": "^13.5.2"
+    "canvas": "^2.9.3"
+  },
+  "devDependencies": {
+    "prettier": "2.7.1"
   }
 }
